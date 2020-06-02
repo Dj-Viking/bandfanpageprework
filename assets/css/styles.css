@@ -1,0 +1,106 @@
+
+
+        h1 {
+            font-family: 'Times New Roman', Times, serif;
+            color: red;
+            font-size: 100px;
+            opacity: 0.5;
+        }
+
+        h2 {
+            color: red;
+            font-size: 40px;
+            opacity: 0.5;
+        }
+
+        h3 {
+            color: red;
+            font-size: 40px;
+            opacity: 0.5;
+        }
+
+        h4 {
+            color: red;
+            font-size: 40px;
+            opacity: 0.5;
+        }
+
+        p {
+            border: none;
+            padding: 10px;
+            margin: 10px;
+            color: white;
+            text-align: justify;
+            font-size: 20px;
+        }
+
+        ol {
+            padding: 10px;
+            margin: 50px;
+            color: white;
+            text-align: justify;
+            font-size: 20px;
+        }
+
+        li {
+            margin: 10px;
+        }
+
+        img {
+            opacity: 0.8;
+            vertical-align: middle;
+        }
+
+        section {
+            display: flex;
+            border: dashed;
+            border-color: white;
+            
+        }
+
+        div {
+            margin: 0px;
+            width: 100%;
+            height: auto;
+            display: flex;
+        }
+
+        .left {
+            flex:1.3344;
+            
+        }
+
+        .right {
+            flex:1.3345;
+        }
+
+        a:link {
+            color: white;
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        a:visited {
+            color: magenta;
+            background-color: transparent;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: green;
+            background-color: transparent;
+            text-decoration: underline;
+        }
+
+        a:active {
+            color: yellow;
+            background-color: transparent;
+            text-decoration: underline;
+        }
+
+        video {
+            width: 75%;
+            height: 75%;
+        }
+
+  
